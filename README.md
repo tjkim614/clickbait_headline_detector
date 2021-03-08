@@ -33,14 +33,10 @@ Total of 65,367 headlines - 32,707 clickbait and 32,660 non-clickbait headlines
 - Lemmatized non-numeric list of words
 
 ### Step 3: Explore
-Wordclouds generated from lemmatized list of words
+**Wordclouds** generated from lemmatized list of words (clickbait and nonclickbait, respectively)
 
-**Clickbait Headlines**
 ![cb_wc](Images/clickbait_wordcloud.png)
-**Nonclickbait Headlines**
 ![ncb_wc](Images/nonclickbait_wordcloud.png)
-
-
 ### Step 4: Model
 - Test-train split: 75:25 split
 - **F1-score** was chosen to be the representative metric for model evaluation, because it is generally the most strict metric, and tends to penalize more on wrong predictions.
