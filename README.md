@@ -35,12 +35,12 @@ Total of 65,367 headlines - 32,707 clickbait and 32,660 non-clickbait headlines
 ### Step 3: Explore
 - Lemmatized lists' frequency distribution and wordclouds
 **Clickbait Headlines**
-![osemn](Images/clickbait_fdist.png)
-![osemn](Images/clickbait_wordcloud.png)
+![cb_fdist](Images/clickbait_fdist.png)
+![cb_wc](Images/clickbait_wordcloud.png)
 
 **Nonclickbait Headlines**
-![osemn](Images/nonclickbait_fdist.png)
-![osemn](Images/nonclickbait_wordcloud.png)
+![ncb_fdist](Images/nonclickbait_fdist.png)
+![ncb_wc](Images/nonclickbait_wordcloud.png)
 
 
 ### Step 4: Model
