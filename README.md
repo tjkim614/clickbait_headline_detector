@@ -36,8 +36,10 @@ Total of 65,367 headlines - 32,707 clickbait and 32,660 non-clickbait headlines
 Wordclouds generated from lemmatized list of words
 
 **Clickbait Headlines**
+
 ![cb_wc](Images/clickbait_wordcloud.png)
 **Nonclickbait Headlines**
+
 ![ncb_wc](Images/nonclickbait_wordcloud.png)
 
 
