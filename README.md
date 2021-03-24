@@ -15,9 +15,11 @@ To detect clickbait articles based on their headlines using Natural Language Pro
 Kaggle (32,000)
 - clickbait headlines from ‘BuzzFeed’, ‘Upworthy’, ‘ViralNova’, ‘Thatscoop’, ‘Scoopwhoop’ and ‘ViralStories’ (16,000)
 - non-clickbait headlines from ‘WikiNews’, ’New York Times’, ‘The Guardian’, and ‘The Hindu’ (16,000)
+
 Webscraping from clickbait websites (16,707)
 - clickhole.com (4,526)
 - worldtruth.tv (12,181)
+
 API's from major press companies (16,660)
 - The New York Times (11,460)
 - The Guardian (5,200)
